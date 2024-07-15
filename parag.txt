@@ -1,1 +1,2 @@
-https://avionmission.hashnode.dev/build-an-ai-ui-generator-with-gemini-api-nextjs-tutorial
+blog = https://avionmission.hashnode.dev/build-an-ai-ui-generator-with-gemini-api-nextjs-tutorial,
+deployed site = https://ai-ui-generator.netlify.app/
